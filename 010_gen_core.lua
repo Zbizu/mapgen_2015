@@ -1,3 +1,5 @@
+-- main file for dungeon generation
+
 -- do not change stuff below unless you know what are you doing
 local cnw,cne,n,csw,w,dse_dnw,dnw,cse,dsw_dne,e,dne,s,dsw,dse = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
 visible = {[1] = 8, [2] = 7, [3] = 6, [4] = 5, [5] = 4, [6] = 3, [7] = 2, [8] = 1}

@@ -1,3 +1,5 @@
+-- script for a tool that clears trashed tunnels in order to make it possible to walk through them
+
 function onUse(cid, item, frompos, itemEx, topos)
 local sarco = {
 [1] = {13720, 13729, 13731, 1419},

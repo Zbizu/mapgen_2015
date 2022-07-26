@@ -1,3 +1,5 @@
+-- scripted lever in pre-built tomb structure
+
 function onUse(cid, item, frompos, itemEx, topos)
 	local tomb_tile_a = {-4, 0}
 	local tomb_tile_b = {4, 0}

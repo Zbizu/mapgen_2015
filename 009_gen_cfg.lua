@@ -1,5 +1,5 @@
+-- config file for dungeons
 local cnw,cne,n,csw,w,dse_dnw,dnw,cse,dsw_dne,e,dne,s,dsw,dse = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
--- 23 aug 13, 7:00 - 18 dec 13, 18:25
 pits_event_config = {
 	main = {
 		chests_actionid = 19000,

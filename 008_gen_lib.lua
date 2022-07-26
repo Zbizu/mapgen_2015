@@ -1,3 +1,5 @@
+-- this file holds globals and pre-built structures
+
 inst_global_stairs = {1387, 369, 1386, 3135, 5543, 1395, 1389, 1393, 1391, 1394, 1388, 1392, 1390, 6128, 476, 6127, 475, 8260}
 -- tiles seen as unpathable by tp spawner
 

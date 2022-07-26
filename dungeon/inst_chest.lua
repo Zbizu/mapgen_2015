@@ -1,3 +1,5 @@
+-- script for chests that can be found inside the dungeon
+
 -- you can't touch this
 -- conditions
 local poison_I = createConditionObject(CONDITION_POISON)

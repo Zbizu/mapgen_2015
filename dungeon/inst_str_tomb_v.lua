@@ -1,3 +1,5 @@
+-- scripted lever in pre-built tomb structure
+
 function onUse(cid, item, frompos, itemEx, topos)
 local tomb_bars = {{0, -3}, {2, -3}, {-3, 0}, {-3, 2}}
 local tomb_bars_id = {1546, 1547}

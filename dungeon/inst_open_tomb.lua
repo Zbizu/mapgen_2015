@@ -1,3 +1,5 @@
+-- tomb dungeon lever
+
 function onUse(cid, item, frompos, itemEx, topos)
 local entry_config = {
 inst_id = 2,

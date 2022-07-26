@@ -1,3 +1,5 @@
+-- scripted lever in pre-built tomb structure
+
 function onUse(cid, item, frompos, itemEx, topos)
 	local basepos = getThingPos(item.uid)
 	local pharlist = {"mahrdis", "morguthis", "omruc", "rahemos", "thalas", "vashresamun", "ashmunrah", "dipthrah" }

@@ -1,3 +1,5 @@
+-- scripted lever in pre-built tomb structure
+
 function onUse(cid, item, frompos, itemEx, topos)
 	local tomb_tps = {{0, -8}, {-7, -1}, {7, -1}, {0, 6}}
 	local tomb_vi_lv_pos = getThingPos(item.uid)
